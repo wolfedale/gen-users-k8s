@@ -1,0 +1,14 @@
+[stage]
+host = "10.10.1.2"
+port = "6443"
+cert = "...."
+
+[dev]
+host = "10.10.2.2"
+port = "6443"A
+cert = "...."
+
+[prod]
+host = "10.10.3.2"
+port = "6443"
+cert = "...."
